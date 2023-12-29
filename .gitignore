@@ -1,0 +1,23 @@
+# Ignore compiled binaries
+*.out
+*.o
+
+# Ignore logs and other generated files
+*.log
+*.tar.gz
+
+# Ignore user-specific files
+*.swp
+.DS_Store
+.bash_history
+
+# Ignore environment configuration files
+.env
+
+# Ignore backup files
+*~
+
+# Ignore directories
+/bin/
+/build/
+/node_modules/
