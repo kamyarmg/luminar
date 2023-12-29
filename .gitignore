@@ -18,6 +18,5 @@
 *~
 
 # Ignore directories
-/bin/
 /build/
 /node_modules/

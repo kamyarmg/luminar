@@ -1,0 +1,3 @@
+# bin/luminar
+#!/bin/bash
+./../src/luminar.sh "$@"
